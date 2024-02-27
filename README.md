@@ -1,2 +1,2 @@
 # first
-I am GROOT.
+This is my first repository
