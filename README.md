@@ -1,2 +1,2 @@
 # first
-My first one and hopefully not last:)
+Hi, I am . I am learning to code on Python. 
